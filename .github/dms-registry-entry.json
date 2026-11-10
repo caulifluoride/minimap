@@ -1,0 +1,14 @@
+{
+    "id": "niriMinimap",
+    "name": "Niri Minimap",
+    "capabilities": ["dankbar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/caulifluoride/minimap",
+    "author": "caulifluoride",
+    "description": "Horizontal minimap of the windows on your current niri workspace, with click-to-focus and scroll-to-navigate.",
+    "dependencies": ["niri"],
+    "compositors": ["niri"],
+    "distro": ["any"],
+    "screenshot": "https://raw.githubusercontent.com/caulifluoride/minimap/main/screenshot.png",
+    "requires_dms": ">=1.0.0"
+}
