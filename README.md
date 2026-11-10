@@ -41,7 +41,7 @@ The script clones (or updates) the plugin in the right directory, rescans plugin
 
 ### Plugin registry
 
-Niri Minimap is published to the [DMS plugin registry](https://plugins.danklinux.com/), so you can install it from **Settings → Plugins → Browse** or from a terminal:
+Niri Minimap is published to the [DMS plugin registry](https://duxlabs.dev/plugins), so you can install it from **Settings → Plugins → Browse** or from a terminal:
 
 ```bash
 dms plugins install niriMinimap
