@@ -2,6 +2,8 @@
 
 A DankBar widget for [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) that shows a horizontal minimap of the windows on your current [niri](https://github.com/YaLTeR/niri) workspace.
 
+![Niri Minimap in the DankBar](screenshot.png)
+
 Each tile is a window: columns and rows are laid out to scale, the focused window is highlighted, urgent windows turn red, and app icons are drawn inside each tile.
 
 - Click a tile to focus that window
